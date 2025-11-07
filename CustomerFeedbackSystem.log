@@ -1,0 +1,86 @@
+[2025-11-02 11:55:48] [WARNING] ❌ Duplicate or invalid ID. Feedback ID: 100002
+[2025-11-02 11:57:15] [WARNING] ❌ Duplicate or invalid ID. Feedback ID: 456123
+[2025-11-02 11:58:17] [WARNING] ❌ Duplicate or invalid ID. Feedback ID: 600000
+[2025-11-02 12:02:38] [INFO] ✅ Feedback inserted successfully (ID: 600005)
+[2025-11-02 12:04:44] [WARNING] ❌ Duplicate or invalid ID. Feedback ID: 987654
+[2025-11-02 12:06:05] [INFO] ✅ Feedback updated successfully (ID: 600005)
+[2025-11-02 12:06:57] [INFO] 🗑️ Feedback deleted successfully (ID: 600005)
+[2025-11-02 12:12:22] [WARNING] ❌ Duplicate or invalid ID. Feedback ID: 123654
+[2025-11-02 12:19:10] [WARNING] ❌ Customer ID not found: 100006
+[2025-11-02 12:20:31] [WARNING] ❌ Customer ID not found: 100006
+[2025-11-02 12:26:12] [WARNING] ❌ Product ID not found: 200003
+[2025-11-02 12:26:51] [INFO] ✅ Feedback inserted successfully (ID: 741852)
+[2025-11-02 12:29:52] [WARNING] ❌ Product ID not found: 200003
+[2025-11-02 12:32:07] [INFO] ✅ Feedback updated successfully (ID: 987654)
+[2025-11-02 12:33:01] [INFO] 🗑️ Feedback deleted successfully (ID: 987654)
+[2025-11-02 12:33:30] [WARNING] ❌ Feedback ID must be 6 digits: 7894561
+[2025-11-02 12:39:26] [WARNING] ❌ Invalid Customer ID: 5555555
+[2025-11-02 12:43:54] [INFO] ✅ Feedback inserted successfully (ID: 789456)
+[2025-11-02 12:58:14] [WARNING] ❌ Customer ID not found: 123654
+[2025-11-02 12:59:23] [INFO] ✅ Feedback updated successfully (ID: 456123)
+[2025-11-02 13:05:14] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-02 13:06:01] [WARNING] ❌ Invalid Product ID: 20003
+[2025-11-02 13:07:11] [WARNING] ❌ Invalid Customer ID: 10005
+[2025-11-02 13:07:50] [WARNING] ❌ Product ID not found: 200002
+[2025-11-02 13:08:52] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-02 13:08:52] [INFO] ✅ Feedback inserted successfully (ID: 778899)
+[2025-11-02 13:09:01] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-02 16:16:20] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-02 16:16:20] [WARNING] ❌ Duplicate Feedback ID: 456123
+[2025-11-02 16:19:51] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-02 16:19:51] [INFO] ✅ Feedback inserted successfully (ID: 963258)
+[2025-11-02 16:20:17] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-02 22:30:25] [WARNING] ⚠️ No product found for ID: 987654
+[2025-11-02 22:30:34] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-02 22:31:18] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-02 22:31:19] [INFO] ✅ Feedback inserted successfully (ID: 987654)
+[2025-11-03 07:41:53] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-03 07:43:07] [INFO] ✅ Feedback updated successfully (ID: 987654)
+[2025-11-03 07:44:31] [INFO] 🗑️ Feedback deleted successfully (ID: 987654)
+[2025-11-03 09:46:29] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-03 09:46:29] [INFO] ✅ Feedback inserted successfully (ID: 456123)
+[2025-11-03 09:49:14] [WARNING] ❌ Customer ID not found: 200009
+[2025-11-03 10:16:07] [WARNING] ❌ Invalid Feedback ID: 7546
+[2025-11-03 10:16:49] [WARNING] ⚠️ No product found for ID: 9832
+[2025-11-03 10:19:30] [INFO] ✅ Found product: Wireless Headphones (ID: 200003)
+[2025-11-03 10:19:30] [INFO] ✅ Feedback inserted successfully (ID: 324561)
+[2025-11-03 10:21:10] [INFO] ✅ Found product: Wireless Headphones (ID: 200003)
+[2025-11-03 10:21:59] [INFO] ✅ Feedback updated successfully (ID: 324561)
+[2025-11-03 10:22:39] [INFO] ✅ Found product: Wireless Headphones (ID: 200003)
+[2025-11-03 10:47:58] [INFO] ✅ Found product: Smartphone (ID: 200002)
+[2025-11-03 10:47:58] [INFO] ✅ Feedback inserted successfully (ID: 123654)
+[2025-11-03 10:48:21] [WARNING] ⚠️ Feedback ID not found for deletion: 200002
+[2025-11-03 10:48:53] [INFO] ✅ Feedback updated successfully (ID: 123654)
+[2025-11-03 10:49:03] [INFO] 🗑️ Feedback deleted successfully (ID: 123654)
+[2025-11-03 10:59:12] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-03 10:59:12] [INFO] ✅ Feedback inserted successfully (ID: 789456)
+[2025-11-03 13:01:44] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-03 13:01:44] [WARNING] ❌ Duplicate Feedback ID: 789456
+[2025-11-03 14:11:15] [INFO] 🗑️ Feedback deleted successfully (ID: 324561)
+[2025-11-03 14:11:32] [INFO] 🗑️ Feedback deleted successfully (ID: 456123)
+[2025-11-03 14:11:51] [INFO] 🗑️ Feedback deleted successfully (ID: 789456)
+[2025-11-03 14:16:53] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-03 14:16:53] [INFO] ✅ Feedback inserted successfully (ID: 987654)
+[2025-11-03 16:40:25] [INFO] ✅ Found product: Smartphone (ID: 200002)
+[2025-11-03 16:40:26] [INFO] ✅ Feedback inserted successfully (ID: 777777)
+[2025-11-05 09:10:08] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-05 09:10:08] [INFO] ✅ Feedback inserted successfully (ID: 741023)
+[2025-11-05 09:10:27] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-06 09:24:33] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-06 09:24:33] [INFO] ✅ Feedback inserted successfully (ID: 879564)
+[2025-11-06 09:25:11] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-06 09:25:34] [INFO] ✅ Feedback updated successfully (ID: 879564)
+[2025-11-06 09:25:42] [INFO] 🗑️ Feedback deleted successfully (ID: 879564)
+[2025-11-06 09:38:53] [INFO] ✅ Found product: iPhone 15 (ID: 200001)
+[2025-11-06 09:38:53] [INFO] ✅ Feedback inserted successfully (ID: 879654)
+[2025-11-06 09:39:26] [INFO] ✅ Found product: Smartphone (ID: 200002)
+[2025-11-06 09:40:18] [INFO] ✅ Feedback updated successfully (ID: 879654)
+[2025-11-06 09:40:37] [INFO] 🗑️ Feedback deleted successfully (ID: 879654)
+[2025-11-06 09:43:56] [INFO] ✅ Found product: Smartwatch (ID: 200004)
+[2025-11-06 09:43:56] [INFO] ✅ Feedback inserted successfully (ID: 456321)
+[2025-11-07 12:27:48] [INFO] ✅ Found product: Mechanical Keyboard (ID: 200006)
+[2025-11-07 12:27:48] [INFO] ✅ Feedback inserted successfully (ID: 654987)
+[2025-11-07 12:28:30] [INFO] ✅ Found product: Mechanical Keyboard (ID: 200006)
+[2025-11-07 12:29:20] [INFO] ✅ Feedback updated successfully (ID: 654987)
+[2025-11-07 12:29:43] [INFO] ✅ Found product: Mechanical Keyboard (ID: 200006)
+[2025-11-07 12:30:08] [INFO] 🗑️ Feedback deleted successfully (ID: 654987)
